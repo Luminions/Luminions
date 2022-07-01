@@ -1,9 +1,9 @@
 ### Olá, Seja Bem-Vindo ao Meu Perfil ! 😄🙏📚
 
 <div align="center">
-  <a href="https://github.com/luminions">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luminions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminions&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Luminions">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luminions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luminions&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lumi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
